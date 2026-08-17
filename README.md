@@ -30,6 +30,5 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ssaymon-prog/ssaymon-prog/snake-output/snake.svg" alt="Snake animation" />
 
 ###
